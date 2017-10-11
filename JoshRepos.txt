@@ -1,0 +1,2 @@
+https://github.com/laserbeam897/roboticsPiLibrary
+https://github.com/laserbeam897/roboticsArduinoClient
